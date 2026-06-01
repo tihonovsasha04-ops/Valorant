@@ -1,0 +1,6 @@
+@font-face {
+    font-family: 'Druk Wide';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Druk Wide'), url('DrukWideBold.woff') format('woff');
+}
